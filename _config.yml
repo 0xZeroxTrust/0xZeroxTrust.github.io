@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "cocomelonc"
+title                    : "zeroxtrust"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "cocomelonc"
+name                     : "zeroxtrust"
 description              : "Cybersec, pentest, red team, hacking"
 url                      : "https://0xZeroxTrust.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -71,7 +71,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "cocomelonc"
+  username               : "zeroxtrust"
 facebook:
   username               :
   app_id                 :
@@ -94,48 +94,48 @@ analytics:
 
 # Site Author
 author:
-  name             : "cocomelonc"
+  name             : "zeroxtrust"
   avatar           : "/assets/images/cat.png"
   bio              : "cybersec enthusiast. CTF player"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cocomelonkz@gmail.com"
+      url: "mailto:zerodiumhunter@gmail.com"
     - label: "Twitter"
       icon: "fab fa-twitter"
-      url: "https://twitter.com/cocomelonckz"
+      url: "https://twitter.com/IamZERODIUM"
     - label: "HackTheBox"
       icon: "far fa-flag"
-      url: "https://www.hackthebox.eu/profile/293150"
+      url: "https://www.hackthebox.eu/profile/xxx"
     - label: "TryHackMe"
       icon: "far fa-flag"
-      url: "https://tryhackme.com/p/cocomelonc"
+      url: "https://tryhackme.com/p/chitranjan"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cocomelonc/"
+      url: "https://github.com/zeroxtrust/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/zhassulan-zhussupov-5a347419b/"
+      url: "https://www.linkedin.com/in/rahul-kumar-397240288/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-twitter"
-      url: "https://twitter.com/cocomelonckz"
+      url: "https://twitter.com/IamZERODIUM"
     - label: "HackTheBox"
       icon: "far fa-flag"
-      url: "https://www.hackthebox.eu/profile/293150"
+      url: "https://www.hackthebox.eu/profile/xxx"
     - label: "TryHackMe"
       icon: "far fa-flag"
-      url: "https://tryhackme.com/p/cocomelonc"
+      url: "https://tryhackme.com/p/chitranjan"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cocomelonc/"
+      url: "https://github.com/zeroxtrust/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/zhassulan-zhussupov-5a347419b/"
+      url: "https://www.linkedin.com/in/rahul-kumar-397240288/"
 
 
 # Reading Files
